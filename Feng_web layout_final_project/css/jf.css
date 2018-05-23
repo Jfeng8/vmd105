@@ -1,0 +1,38 @@
+html {
+    background-image: url(../images/retro.jpg);
+}
+body {
+    width: 800px;
+    padding: 60px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body { 
+    text-align: center;
+}
+
+body {
+    border: 5px double #111;
+
+    background-color: aqua;  
+}
+a {
+    font-size: 15pt;
+    color: cornflowerblue;
+    text-decoration: none;
+}
+a:hover {
+    color: #000;
+    text-decoration: underline;
+}
+h1 {
+    color: 000;
+    text-transform: capitalize;
+}
+
+img {
+    width: 700px; 
+    box-shadow: 8px 8px 8px rgba(0,0,0,.3)
+}
